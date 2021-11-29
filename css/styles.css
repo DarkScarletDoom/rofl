@@ -1,0 +1,41 @@
+.gopa p 
+{
+    font-size: 500%;
+    text-align: center;
+    color: black;
+    margin: 0%;
+}
+body 
+{
+    padding: 0%;    
+    padding: 50px;
+    background-image: url(../img/ggg.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+    flex-direction: column;
+    align-items: center;
+}
+.main
+{
+    display: flex;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+    background: linear-gradient(to top, #9514e0, #e968d8);
+    border-radius: 15%;
+    border: #292929 3px solid;
+}
+.gopa 
+{
+    background-image: url(../img/tyanka.png);
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 500px;
+    border-radius: 15%;
+}
+p 
+{
+    font-size: 150%;
+}
